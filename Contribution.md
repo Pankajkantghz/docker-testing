@@ -77,4 +77,4 @@ npm run start
 # Docker Compose Installation
 
 - Install docker, dockert-compose
-- Run `docker-compose up`
+- Run `docker-compose up --build`
